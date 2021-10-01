@@ -204,6 +204,7 @@ padding: 8px;
     color: #70757a;
     position: absolute;
     bottom: 50px;
+    font-family: arial, sans-serif;
 }
 /* en alt */
 .alt {
@@ -286,4 +287,9 @@ a.color2 {
 }
 .margin {
     margin-top: 30px;
+}
+/* alttaki yazı tipi */
+.altyazı {
+font-size: 14px;
+font-family: arial,sans-serif;
 }
